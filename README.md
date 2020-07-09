@@ -6,7 +6,7 @@ I make a lot of random repositories on here and they're vaguely sorted using org
 * 💻 [Apps](https://github.com/danielctull-apps): Little apps and command line tools.
 * 🛹 [Playground](https://github.com/danielctull-playground): Experimental projects and things I've played with.
 * 📝 [Tests](https://github.com/danielctull-tests): Small projects to test the functionality of things.
-* 🍏 [Feedback](https://github.com/danielctull-feedback/): Projects for "Feedbacks" I've filed with Apple.
+* 🍏 [Feedback](https://github.com/danielctull-feedback/): Projects for Feedbacks I've filed with Apple.
 
 🐦 [@danielctull](http://twitter.com/danielctull)
 
