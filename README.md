@@ -10,6 +10,3 @@ I make a lot of random repositories on here and they're vaguely sorted using org
 * 🚜 [Combine Harvesters](https://github.com/CombineHarvesters): Extensions for Apple's Combine framework.
 
 📺 [YouTube](https://www.youtube.com/channel/UC2YIX97l1Hx-l2JAOqPAitw)
-
-🚶🏼‍♂️ He/him
-
